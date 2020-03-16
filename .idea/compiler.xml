@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="comment" />
+        <module name="svn_dao01" />
+        <module name="svn_service01" />
+        <module name="svn_web01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="comment" target="1.8" />
+      <module name="svn_dao01" target="1.8" />
+      <module name="svn_parent01" target="1.8" />
+      <module name="svn_service01" target="1.8" />
+      <module name="svn_web01" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

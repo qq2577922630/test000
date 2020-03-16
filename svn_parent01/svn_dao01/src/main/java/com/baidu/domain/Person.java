@@ -1,4 +1,7 @@
 package com.baidu.domain;
 
-public class Person {
+import java.io.Serializable;
+
+public class Person implements Serializable {
+    int a = 10;
 }
