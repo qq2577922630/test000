@@ -3,7 +3,7 @@ package com.baidu.exception;
 public class WuXiaoException extends RuntimeException {
 
     private String str;
-
+    String v1="1";
     public WuXiaoException(String str){
 
     }
