@@ -3,6 +3,7 @@ package com.baidu.exception;
 public class WeiZhiException extends Exception {
 
     private String str;
+    ryuuuuu
 
     public WeiZhiException(String str){
 
